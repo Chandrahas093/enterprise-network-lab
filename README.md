@@ -1,4 +1,4 @@
-# Enterprise Network Lab
+# Network Lab: VLANS | OSPF | HSRP | NAT | DHCP-Server | Poer security | Inter-VLAN Routing |
 
 This project demonstrates the design and implementation of a scalable and resilient enterprise network infrastructure built to support distinct user segments and ensure high availability for critical services.
 
