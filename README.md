@@ -16,7 +16,7 @@ This lab was built and simulated using the following platform and virtual device
 | Component | Details |
 | :--- | :--- |
 | **Platform** | EVE-NG (Emulated Virtual Environment - Next Generation) |
-| **L3 Switches** | Cisco IOL (IOS on Linux) L3 Image: `i86bi_LinuxL3-AdvEnterpriseK9-M2_157_3_May_2018.bin` |
+| **L3 Switches** | Cisco IOL (IOS on Linux) L3 Image: `i86bi_linux_12-adventerprisek9-ms.SSA.high_iron_20190423.bin` |
 | **Routers** | Cisco Dynamips Image: `c7200-adventerprisek9-mz.152-4.S6.image` |
 | **Switches** | Cisco IOL (IOS on Linux) L2 Image: `i86bi_linux_12-adventerprisek9-ms.SSA.high_iron_20190423.bin` |
 | **End Devices** | Windows Server (for DHCP), Virtual PCs |
